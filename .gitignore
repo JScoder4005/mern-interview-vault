@@ -1,0 +1,13 @@
+# Obsidian workspace/cache (keep notes, drop local state)
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/appearance.json
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+*.swp
